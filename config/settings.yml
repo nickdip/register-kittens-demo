@@ -7,7 +7,7 @@ base_url: https://localhost:5000
 feedback_link_url: "https://forms.office.com/e/Q6LVwtEKje"
 
 # The email address for support queries
-support_email: becomingateacher@digital.education.gov.uk
+support_email: registerakitten@digital.education.gov.uk
 data_email: registerateacher@education.gov.uk
 
 dttp:
@@ -39,7 +39,7 @@ azure:
 # Used to add feature flags in the app to control access to certain features.
 features:
   home_text: false
-  use_ssl: true
+  use_ssl: false
   sign_in_method: dfe-sign-in
   enable_feedback_link: true
   basic_auth: true
