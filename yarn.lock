@@ -1056,15 +1056,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ministryofjustice/frontend@npm:^2.1.1":
-  version: 2.1.1
-  resolution: "@ministryofjustice/frontend@npm:2.1.1"
+"@ministryofjustice/frontend@npm:^2.1.2":
+  version: 2.1.2
+  resolution: "@ministryofjustice/frontend@npm:2.1.2"
   dependencies:
     govuk-frontend: "npm:^5.0.0"
     moment: "npm:^2.27.0"
   peerDependencies:
     jquery: ^3.6.0
-  checksum: 185f812df17e7c9a807e9c12dc035ede1d17e48377f83fce68c493238502479793e81643c653499f78478dbbc12799c81324ab23fba39da51d885deed2707ed6
+  checksum: c2100ebea7958cb3f6d3068d2c0eeedd5dcfc73219ff6f27ead6f81f6fb29c4a73f1be0b04b89b9f68992a2eff2681b8d2e12fb534be1a935ab572588ddb0ac3
   languageName: node
   linkType: hard
 
@@ -6804,7 +6804,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@ministryofjustice/frontend": "npm:^2.1.1"
+    "@ministryofjustice/frontend": "npm:^2.1.2"
     accessible-autocomplete: "npm:^2.0.3"
     esbuild: "npm:^0.20.1"
     esbuild-jest: "npm:^0.5.0"
