@@ -3772,10 +3772,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"govuk-frontend@npm:^5.0.0, govuk-frontend@npm:^5.2.0":
+"govuk-frontend@npm:^5.0.0":
   version: 5.2.0
   resolution: "govuk-frontend@npm:5.2.0"
   checksum: 884c0c5600f137882ca7dd3d5686ea7568f0430e64bee688ec5407a000ca4d239df7dd35d371564905d2ac839608a27987ed90ebc1cb45eb125eb3fa6e3019f0
+  languageName: node
+  linkType: hard
+
+"govuk-frontend@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "govuk-frontend@npm:5.3.0"
+  checksum: 3195fa74b16a0053680979b0813e9b155f9db0c84f276e26b86ddb1144e9da67c766dba911e9bf51867b58a0004cb234bfc92a26feaa092084973d80edbf20e4
   languageName: node
   linkType: hard
 
@@ -6809,7 +6816,7 @@ __metadata:
     esbuild: "npm:^0.20.1"
     esbuild-jest: "npm:^0.5.0"
     govuk-country-and-territory-autocomplete: "npm:^1.0.2"
-    govuk-frontend: "npm:^5.2.0"
+    govuk-frontend: "npm:^5.3.0"
     jest: "npm:^29.7.0"
     jest-environment-jsdom: "npm:^29.7.0"
     jquery: "npm:^3.7.1"
